@@ -4,7 +4,7 @@
 #
 Name     : azure-mgmt-applicationinsights
 Version  : 0.3.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/b7/23/a9d26e572724a5f9f17854144843642ffea7939b0d1a72f894e4aaf08a37/azure-mgmt-applicationinsights-0.3.0.zip
 Source0  : https://files.pythonhosted.org/packages/b7/23/a9d26e572724a5f9f17854144843642ffea7939b0d1a72f894e4aaf08a37/azure-mgmt-applicationinsights-0.3.0.zip
 Summary  : Microsoft Azure Application Insights Management Client Library for Python
